@@ -4,7 +4,7 @@
   <dt>EBN</dt>
   <dd>The Easy Blog Networks project, https://www.easyblognetworks.com/.</dd>
   <dt>DMON</dt>
-  <dd>The Easy Domain Monitor project, https://www.easydomainmonitor.com/.</dd>
+  <dd>The Easy Domain Monitor project, https://www.easydomainmonitor.com/.</dd>fd
   <dt>INCH</dt>
   <dd>Indexation Checker, a spin-off of DMON.</dd>
   <dt>WP</dt>
